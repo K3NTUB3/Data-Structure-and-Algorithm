@@ -15,7 +15,7 @@ namespace Data_Structure_and_Algorithm
             Console.WriteLine("LESSONS");
             Console.WriteLine(" [0] Exit System");
             Console.WriteLine(" [1] Introduction to Data Structures");
-            Console.WriteLine(" [2] Arrays");
+            Console.WriteLine(" [2] Arrays V2");
             Console.WriteLine(" [3] Linked Lists");
             Console.WriteLine(" [4] Stacks and Queues");
             Console.WriteLine(" [5] Trees");
@@ -48,6 +48,10 @@ namespace Data_Structure_and_Algorithm
                     else if (pick == 1)
                     {
                         LessonOne.Lesson1();
+                    }
+                    else if (pick == 2)
+                    { 
+                        LessonTwo.Lesson2();
                     }
                 }
                 catch (FormatException)
