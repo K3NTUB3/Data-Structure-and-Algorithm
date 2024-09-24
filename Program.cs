@@ -10,6 +10,7 @@ namespace Data_Structure_and_Algorithm
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
         }
     }
 }
