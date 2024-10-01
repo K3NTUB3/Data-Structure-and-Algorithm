@@ -61,6 +61,34 @@ namespace Data_Structure_and_Algorithm
                     {
                         LessonFour.Lesson4();
                     }
+                    else if (pick == 5)
+                    {
+                        LessonFive.Lesson5();
+                    }
+                    else if (pick == 6)
+                    {
+                        LessonSix.Lesson6();
+                    }
+                    else if (pick == 7)
+                    {
+                        LessonSeven.Lesson7();
+                    }
+                    else if (pick == 8)
+                    {
+                        LessonEight.Lesson8();
+                    }
+                    else if (pick == 9)
+                    {
+                        LessonNine.Lesson9();
+                    }
+                    else if (pick == 10)
+                    {
+                        LessonTen.Lesson10();
+                    }
+                    else if (pick == 11)
+                    {
+                        LessonEleven.Lesson11();
+                    }
                 }
                 catch (FormatException)
                 {
