@@ -47,11 +47,13 @@
     <Compile Include="LessonEleven.cs" />
     <Compile Include="LessonFive.cs" />
     <Compile Include="LessonFour.cs" />
+    <Compile Include="LessonFourteen.cs" />
     <Compile Include="LessonNine.cs" />
     <Compile Include="LessonOne.cs" />
     <Compile Include="LessonSeven.cs" />
     <Compile Include="LessonSix.cs" />
     <Compile Include="LessonTen.cs" />
+    <Compile Include="LessonThirteen.cs" />
     <Compile Include="LessonThree.cs" />
     <Compile Include="LessonTwelve.cs" />
     <Compile Include="LessonTwo.cs" />

@@ -93,6 +93,14 @@ namespace Data_Structure_and_Algorithm
                     {
                         LessonTwelve.Lesson12();
                     }
+                    else if (pick == 13)
+                    {
+                        LessonThirteen.Lesson13();
+                    }
+                    else if (pick == 14)
+                    {
+                        LessonFourteen.Lesson14();
+                    }
                 }
                 catch (FormatException)
                 {
