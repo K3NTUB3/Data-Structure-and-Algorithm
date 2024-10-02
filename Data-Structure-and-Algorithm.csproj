@@ -53,6 +53,7 @@
     <Compile Include="LessonSix.cs" />
     <Compile Include="LessonTen.cs" />
     <Compile Include="LessonThree.cs" />
+    <Compile Include="LessonTwelve.cs" />
     <Compile Include="LessonTwo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

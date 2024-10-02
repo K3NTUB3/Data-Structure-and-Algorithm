@@ -38,7 +38,7 @@ namespace Data_Structure_and_Algorithm
             }
 
             if (totalAmount == 0)
-                Console.WriteLine($"\nTotal coins used: {coinCount}");
+                Console.WriteLine("\nTotal coins used: " + coinCount);
             else
                 Console.WriteLine("\nCannot make the exact amount with given coins.");
         }
